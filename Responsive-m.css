@@ -1,4 +1,4 @@
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 240px) {
 
     body {
         margin-right: 0em;
@@ -22,7 +22,7 @@
 
     .sect-un {
         display: flex;
-        align-items: center;
+        padding: 1em;
     }
 
     .sect-un img {
