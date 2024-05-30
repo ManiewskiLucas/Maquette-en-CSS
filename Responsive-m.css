@@ -1,0 +1,49 @@
+@media screen and (max-width: 320px) {
+
+    body {
+        margin-right: 0em;
+        margin-left: 0em;
+        max-width: 15em;
+    }
+
+    .sect-deux {
+        display: none;
+    }
+
+    header nav {
+        display: flex;
+        flex-direction: column;
+        width: 15em;
+    }
+
+    .resp-m {
+        width: 15em;
+    }
+
+    .sect-un {
+        display: flex;
+        align-items: center;
+    }
+
+    .sect-un img {
+        width: 13em;
+        text-align: center;
+    }
+
+    .titre {
+        width: 15.5em;
+        font-size: 0.8em;
+    }
+
+    .txt-su {
+        font-size: 0.8em;
+        padding-left: 1.4em;
+        padding-right: 1.4em;
+    }
+
+    .foot {
+        width: 17em;
+        font-size: 0.6em;
+        padding-left: 4em;
+    }
+}
